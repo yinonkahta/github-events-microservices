@@ -1,0 +1,4 @@
+time=2023-12-28T12:59:15.294+02:00 level=INFO source=main.go:15 msg="Github Events API started"
+time=2023-12-28T12:59:15.295+02:00 level=INFO source=mongo_db_collection_store.go:94 msg="connecting to mongo: mongodb://localhost:27018, database: github, collection: events"
+time=2023-12-28T12:59:15.295+02:00 level=INFO source=mongo_db_collection_store.go:94 msg="connecting to mongo: mongodb://localhost:27018, database: github, collection: repos"
+time=2023-12-28T12:59:15.296+02:00 level=INFO source=mongo_db_collection_store.go:94 msg="connecting to mongo: mongodb://localhost:27018, database: github, collection: users"
